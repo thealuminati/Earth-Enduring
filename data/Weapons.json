@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Dagger","note":"","params":[0,0,5,0,0,0,0,0],"price":100,"wtypeId":1},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":150,"wtypeId":2},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":98,"name":"Flail","note":"","params":[0,0,8,0,0,0,0,0],"price":200,"wtypeId":3},
+{"id":4,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,15,0,0,0,0,0],"price":150,"wtypeId":4},
+{"id":5,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":100,"name":"Whip","note":"","params":[0,0,5,0,0,0,0,0],"price":50,"wtypeId":5},
+{"id":6,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0},{"code":54,"dataId":2,"value":1}],"iconIndex":101,"name":"Staff","note":"","params":[0,0,0,0,0,10,0,0],"price":50,"wtypeId":6},
+{"id":7,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0},{"code":54,"dataId":2,"value":1}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":200,"wtypeId":7},
+{"id":8,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":103,"name":"Crossbow","note":"","params":[0,0,8,0,0,0,0,0],"price":250,"wtypeId":8},
+{"id":9,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":104,"name":"Pistol","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":9},
+{"id":10,"animationId":16,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":105,"name":"Claw","note":"","params":[0,0,10,0,0,0,0,0],"price":150,"wtypeId":10},
+{"id":11,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":106,"name":"Glove","note":"","params":[0,0,5,0,0,0,0,0],"price":50,"wtypeId":11},
+{"id":12,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0},{"code":54,"dataId":2,"value":1}],"iconIndex":107,"name":"Spear","note":"","params":[0,0,10,0,0,0,0,0],"price":200,"wtypeId":12},
+{"id":13,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":108,"name":"Mace","note":"","params":[0,0,5,0,5,0,0,0],"price":150,"wtypeId":13},
+{"id":14,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":109,"name":"Rod","note":"","params":[0,0,0,0,10,0,0,0],"price":250,"wtypeId":14},
+{"id":15,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":54,"dataId":2,"value":1}],"iconIndex":112,"name":"Chain Sword","note":"","params":[0,0,20,0,0,0,0,0],"price":500,"wtypeId":17},
+{"id":16,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":113,"name":"Pipe","note":"","params":[0,0,5,5,0,0,0,0],"price":50,"wtypeId":18},
+{"id":17,"animationId":29,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0},{"code":54,"dataId":2,"value":1}],"iconIndex":114,"name":"Sling","note":"","params":[0,0,3,0,3,0,0,0],"price":50,"wtypeId":19},
+{"id":18,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0},{"code":54,"dataId":2,"value":1}],"iconIndex":115,"name":"Shotgun","note":"","params":[0,0,10,0,0,0,0,0],"price":1000,"wtypeId":20},
+{"id":19,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0},{"code":54,"dataId":2,"value":1}],"iconIndex":116,"name":"Rifle","note":"","params":[0,0,20,0,0,0,0,0],"price":2000,"wtypeId":21},
+{"id":20,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":121,"name":"Book","note":"","params":[0,0,2,0,8,0,0,0],"price":500,"wtypeId":25}
+]
