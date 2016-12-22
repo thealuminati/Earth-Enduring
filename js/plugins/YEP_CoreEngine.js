@@ -1647,9 +1647,14 @@ Sprite_Battleback.prototype.scaleSprite = function() {
     this.scale.y = height / this.bitmap.height;
   }
   this.anchor.x = 0.5;
-  this.anchor.y = 0.5;
   this.x = Graphics.boxWidth / 2;
-  this.y = Graphics.boxHeight / 2;
+  if ($gameSystem.isSideView()) {
+    this.anchor.y = 1;
+    this.y = Graphics.boxHeight;
+  } else {
+    this.anchor.y = 0.5;
+    this.y = Graphics.boxHeight / 2;
+  }
 };
 
 //=============================================================================

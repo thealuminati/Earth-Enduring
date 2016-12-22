@@ -12,7 +12,7 @@ Yanfly.BSC.version = 1.12;
 
 //=============================================================================
  /*:
- * @plugindesc v1.12 Alter the basic mechanics behind buffs and states
+ * @plugindesc v1.12a Alter the basic mechanics behind buffs and states
  * that aren't adjustable within the RPG Maker editor.
  * @author Yanfly Engine Plugins
  *
@@ -560,8 +560,9 @@ Yanfly.BSC.version = 1.12;
  * Changelog
  * ============================================================================
  *
- * Version 1.12:
+ * Version 1.12a:
  * - Lunatic Mode fail safes added.
+ * - Optimization update.
  *
  * Version 1.11:
  * - Fixed a bug involving Lunatic state effects not occuring in the right
@@ -1521,6 +1522,7 @@ Game_Unit.prototype.processStateEval = function(type) {
     for (var i = 0; i < length1; ++i) {
       var member = this.allMembers()[i];
       if (!member) return;
+      member.refresh();
       var states = member.states();
       var length2 = states.length;
       for (var j = 0; j < length2; ++j) {
